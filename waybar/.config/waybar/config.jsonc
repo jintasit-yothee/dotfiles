@@ -10,7 +10,7 @@
     "custom/reboot",
     "custom/power"
   ],
-  "modules-center": ["hyprland/window"],
+  "modules-center": ["clock"],
   "modules-right": [
     "network",
     "battery",
@@ -19,8 +19,7 @@
     "backlight",
     "custom/temperature",
     "memory",
-    "cpu",
-    "clock"
+    "cpu"
   ],
   "hyprland/workspaces": {
     "disable-scroll": false,
